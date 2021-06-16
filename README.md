@@ -4,6 +4,10 @@
 
 In the homework a **prompt** had to be used when choosing the type of characters for the password as written in the user story, but in the first work **confirm** was used instead of the **prompt**   
 
+## URL
+
+https://seaweedq12.github.io/password-generator-2/
+
 ## Work
 
 1. Firstly when the generate button is pressed the user is prompt to a input in which the user is ask to enter the length of the password between 8 and 128 characters.
